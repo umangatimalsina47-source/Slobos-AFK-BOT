@@ -8,7 +8,7 @@
   "server": {
     "ip": "nextdimensionSMP.aternos.me",
     "port": 43385,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
